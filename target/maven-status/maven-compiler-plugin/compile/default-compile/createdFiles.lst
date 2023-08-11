@@ -1,0 +1,5 @@
+com/poc/azure/AzureApplication.class
+com/poc/azure/config/AzureBlobConfig.class
+com/poc/azure/controller/TestController.class
+com/poc/azure/controller/AzureController.class
+com/poc/azure/service/AzureBlobService.class
